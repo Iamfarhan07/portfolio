@@ -132,7 +132,7 @@ export default function HeroSection() {
           className="flex items-center justify-center gap-4"
         >
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/Iamfarhan07"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-sm text-[var(--text-muted)] hover:text-brand-500 transition-colors"

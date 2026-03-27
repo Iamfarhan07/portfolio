@@ -3,7 +3,7 @@
 import { Github, Linkedin, Instagram, Youtube, Send } from "lucide-react";
 
 const socials = [
-  { icon: Github, label: "GitHub", href: "https://github.com/yourusername" },
+  { icon: Github, label: "GitHub", href: "https://github.com/Iamfarhan07" },
   { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com/in/yourusername" },
   { icon: Instagram, label: "Instagram", href: "https://instagram.com/yourusername" },
   { icon: Youtube, label: "YouTube", href: "https://youtube.com/@yourusername" },

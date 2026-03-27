@@ -12,7 +12,7 @@ const projects = [
     desc: "Hyper-local fashion resale platform with managed services including quality control, cleaning, and last-mile delivery. Built with a business-first architecture to scale city-by-city.",
     tech: ["Next.js", "Node.js", "MongoDB", "Tailwind", "Stripe"],
     color: "from-orange-500/20 to-amber-500/10",
-    github: "https://github.com/yourusername",
+    github: "https://github.com/Iamfarhan07",
     demo: "#",
   },
   {
@@ -22,7 +22,7 @@ const projects = [
     desc: "Smart resume builder with AI-powered suggestions and ATS optimization. Analyzes job descriptions and tailors resume content to maximize interview chances.",
     tech: ["React", "Python", "Flask", "OpenAI API", "MySQL"],
     color: "from-blue-500/20 to-cyan-500/10",
-    github: "https://github.com/yourusername",
+    github: "https://github.com/Iamfarhan07",
     demo: "#",
   },
   {
@@ -32,7 +32,7 @@ const projects = [
     desc: "Real-time Personal Protective Equipment detection system for industrial safety compliance. Uses computer vision to monitor workers and alert when safety gear is missing.",
     tech: ["Python", "OpenCV", "YOLOv8", "Flask", "TensorFlow"],
     color: "from-green-500/20 to-emerald-500/10",
-    github: "https://github.com/yourusername",
+    github: "https://github.com/Iamfarhan07",
     demo: "#",
   },
   {
@@ -42,7 +42,7 @@ const projects = [
     desc: "Full-featured platform for listing, managing, and participating in tournaments and events. Includes bracket management, live score updates, and integrated payment processing.",
     tech: ["React", "Node.js", "Socket.io", "MongoDB", "Razorpay"],
     color: "from-purple-500/20 to-violet-500/10",
-    github: "https://github.com/yourusername",
+    github: "https://github.com/Iamfarhan07",
     demo: "#",
   },
   {
@@ -52,7 +52,7 @@ const projects = [
     desc: "Cross-platform messaging app with real-time communication, group chats, and media sharing. Built with React Native for mobile and Node.js backend.",
     tech: ["React Native", "Node.js", "Socket.io", "MongoDB", "Redis"],
     color: "from-rose-500/20 to-pink-500/10",
-    github: "https://github.com/yourusername",
+    github: "https://github.com/Iamfarhan07",
     demo: "#",
   },
   {
@@ -62,7 +62,7 @@ const projects = [
     desc: "Immersive 3D visualization of our solar system built with Three.js. Features accurate planet orbits, real-time rotation, and interactive zoom with detailed planetary info.",
     tech: ["Three.js", "JavaScript", "WebGL", "GSAP"],
     color: "from-yellow-500/20 to-orange-500/10",
-    github: "https://github.com/yourusername",
+    github: "https://github.com/Iamfarhan07",
     demo: "#",
   },
 ];
@@ -163,7 +163,7 @@ export default function ProjectsSection() {
           className="text-center mt-12"
         >
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/Iamfarhan07"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-[var(--text-muted)] hover:text-brand-500 transition-colors font-medium text-sm"
