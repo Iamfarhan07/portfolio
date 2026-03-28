@@ -75,7 +75,7 @@ export default function Footer() {
             <p className="mt-6 text-sm text-[var(--text-muted)]">
               📧{" "}
               <a href="mailto:farhan@workwithfs.dev" className="hover:text-brand-500 transition-colors">
-                farhan@workwithfs.dev
+                farhanfs1666@gmail.com
               </a>
             </p>
           </div>
